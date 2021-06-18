@@ -1,4 +1,4 @@
-# AndroidProjec
+# AndroidProjet
 
 新闻App开发：https://www.bilibili.com/video/BV12N411R7yS?from=search&seid=4507860348428555872
 
